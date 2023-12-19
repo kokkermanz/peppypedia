@@ -46,13 +46,13 @@ Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based
 To connect to osu!Bancho using IRC, obviously an IRC client is needed. Please disable SSL and SASL when connecting.
 ___
 
-- Server: `cho.ppy.sh` or `irc.ppy.sh`.
+- Server: `cho.ppy.sh` or `irc.ppy.sh`
 
-- Port: `6667`.
+- Port: `6667`
 
-- SSL: disabled.
+- SSL: `disabled`
 
-- Login: default (username + IRC password).
+- Login: default (username + IRC password)
 
 - Username: Your osu! username, however; it is worth noting that spaces cannot be used, instead you need to use underscores. For example: instead of `Test 1234`, instead use `Test_1234`. 
 
