@@ -39,11 +39,11 @@ langauge: [english]
 
 ## Interent Relay Chat
 
-Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based chat protocol first introduced in 1988.[^1] The chat protocol used Bancho is IRC and can be connected to via an IRC client such as HexChat.[^2]
+Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based chat protocol first introduced in 1988.[^1] The chat protocol used in Bancho is IRC and can be connected to via an IRC client such as HexChat.[^2]
 
 ### Connecting to osu!Bancho:
 
-To connect to osu!Bancho using IRC, obviously an IRC client is needed. When connecting, please disable SSL and SASL when connecting.
+To connect to osu!Bancho using IRC, obviously an IRC client is needed. Please disable SSL and SASL when connecting.
 ___
 
 - Server: `cho.ppy.sh` or `irc.ppy.sh`.
@@ -54,13 +54,13 @@ ___
 
 - Login: default (username + IRC password).
 
-- Username: Self-explanatory, however; it is worth noting that spaces cannot be used for this field. Instead use a dash. For example: instead of `Windows Me`, instead use `Windows_Me`. 
+- Username: Your osu! username, however; it is worth noting that spaces cannot be used, instead you need to use underscores. For example: instead of `Test 1234`, instead use `Test_1234`. 
 
-- Password: Your IRC password retrieved [here](https://osu.ppy.sh/home/account/edit#legacy-api). Note: even though you are NOT using your osu! account password, common sense should tell you that you shouldn't share any personal data which includes passwords such as this one.
+- Password: Your IRC password retrieved [here](https://osu.ppy.sh/home/account/edit#legacy-api). Note: even though this isn't your actual osu! account password, you still should not share it.
 
 ### History
 
-The person who programmed BanchoBot and maintained the IRC protocol used for Bancho was [Echo](https://osu.ppy.sh/users/431), It is unknown whether they are still involved with the development of Bancho considering Echo's profile has the role of Alumini.[^3][^2][^4][^5]
+The person who programmed BanchoBot and maintained the IRC gateway for Bancho was [Echo](https://osu.ppy.sh/users/431), it is unknown whether they are still involved with the development of Bancho as their profile has the role of Alumni.[^3][^2][^4][^5]
 
 </table>
 </tbody></tr>
