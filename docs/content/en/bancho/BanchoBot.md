@@ -1,7 +1,7 @@
 ---
 title: [BanchoBot]
 parent: Bancho
-lastmod: [2023-10-11]
+lastmod: [2023-12-19]
 categories: [bancho]
 menu:
   docs:
