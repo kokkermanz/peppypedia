@@ -43,7 +43,14 @@ This page does not list much information about this particular person/map/featur
 
 ## BanchoBot
 
-BanchoBot is a multiple-use IRC chat bot, one of these uses consists of sending automated announcements to `#announce` and `#userlog`.
+BanchoBot is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Community/Internet_Relay_Chat). 
+It also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
+
+### Commands
+
+BanchoBot responds to player commands through specific messages typed in chat. All BanchoBot commands begin with an exclamation mark (`!`) and are followed by the case-insensitive name of the command you want (with no space between). These commands can be used in chat channels and through private messages with BanchoBot. However, if you use a BanchoBot command in public chat, other users will not see it and the response will be displayed inside a private message from BanchoBot.
+
+To get a list of all BanchoBot commands, use the command `!help`.
 
 </table>
 
