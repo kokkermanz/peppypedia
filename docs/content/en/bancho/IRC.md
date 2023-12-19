@@ -1,7 +1,7 @@
 ---
 title: [Internet Relay Chat]
 parent: Bancho
-lastmod: [2023-06-28]
+lastmod: [2023-12-19]
 categories: [bancho]
 menu:
   docs:
